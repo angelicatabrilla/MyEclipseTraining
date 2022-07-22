@@ -1,0 +1,9 @@
+100,Math,90
+100,Science,85
+100,PE,75
+200,Math,92
+200,Science,87
+200,PE,78
+300,Math,72
+300,Science,97
+300,PE,88
